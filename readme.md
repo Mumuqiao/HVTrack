@@ -16,7 +16,7 @@ This repository is the official release code for our ECCV24 paper HVTrack.
 
 
 ## Code issues
-**I am busy on exploring the next stage of my career and don't have the time to organize all the code and data in the near future. I'll start by open-sourcing the most concerned codes like data processing, BCA and CPA to this repository.**
+**I am busy on exploring the next stage of my career and don't have the time to organize all the code and data in the near future. I'll start by open-sourcing the most concerned codes like [Data Processing](./datasets/kitti_full.py), [BCA, and CPA](./modules/transformer_layer.py) to this repository.**
 
 ## Setup
 
