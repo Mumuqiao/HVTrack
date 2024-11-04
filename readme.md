@@ -1,6 +1,6 @@
 # [ECCV24] 3D Single-object Tracking in Point Clouds with High Temporal Variation
 
-**[[Paper]](https://arxiv.org/abs/2303.09219)**
+**[[Paper]](https://arxiv.org/abs/2408.02049)**
 
 This repository is the official release code for our ECCV24 paper HVTrack.
 
